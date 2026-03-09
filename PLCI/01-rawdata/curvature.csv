@@ -1,0 +1,114 @@
+class_lmaps,class,linksn1,linksn2,carbsn1,dbonsn1,carbsn2,dbonsn2,host,relax,buff,c0,tol,tslope,slopetol,npln,est,temp,press,ref,remarks
+PE,PE,S,S,12,0,12,0,,TS,H2O,-0.0220,0.0020,,,TRUE,FALSE,135,0,https://doi.org/10.1039/c9sm02352f,"Seddon 1984, crazy hot"
+PE,PE,S,S,14,0,14,0,,TS,H2O,-0.0314,0.0006,,,TRUE,FALSE,80,0,https://doi.org/10.1107/S1600576719002760,Would not trust the use of a tslope here
+PE,PE,S,S,16,0,16,0,,,"20 mM Na3PO4, 130 mM NaCl, pH 7.4",-0.0380,0.0190,,,TRUE,FALSE,35,0,https://doi.org/10.1039/c9sm02352f,
+PE,PE,S,S,20,0,20,0,,,H2O,-0.0358,,,,FALSE,TRUE,99,0,https://doi.org/10.1016/0005-2736(95)00296-0,"Seddon 1984, crazy hot"
+PE,PE,S,S,16,0,18,1,DOPE,TS,H2O,-0.0317,0.0007,,,TRUE,FALSE,35,0,https://doi.org/10.1107/S1600576719002760,
+PE,PE,S,S,16,0,18,1,DOPE,,"20 mM Na3PO4, 130 mM NaCl, pH 7.4",-0.0350,0.007,,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bpj.2018.03.006,
+PE,PE,S,S,16,0,18,1,DOPE,TS,H2O,-0.0316,0.0007,-2.70E-04,7.00E-05,TRUE,FALSE,37,0,https://doi.org/10.1039/c3sm51829a,"Yes, this one measurement in the paper is at 37°C!"
+PE,PE,S,S,16,1,16,1,,TS,H2O,-0.0382,0.0009,-2.70E-04,,TRUE,FALSE,35,0,https://doi.org/10.1107/S1600576719002760,Added tslope myself for chain length series
+PE,PE,S,S,16,1,16,1,,TS,H2O,-0.0370,0.001,-1.70E-04,,FALSE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PE,PE,S,S,18,1,18,1,,TD,"2 mM TES, pH 7.4",-0.0353,0.0025,-1.70E-04,,FALSE,FALSE,8,0,https://doi.org/10.1016/S0006-3495(96)79381-5,
+PE,PE,S,S,18,1,18,1,,,H2O,-0.0342,,,,FALSE,TRUE,10,0,https://doi.org/10.1016/0005-2736(95)00296-0,
+PE,PE,S,S,18,1,18,1,,TD,"H2O, pH 7.2",-0.0333,,,,FALSE,FALSE,20,0,https://doi.org/10.1016/s0006-3495(03)74596-2,
+PE,PE,S,S,18,1,18,1,,TD,"0.013 M HCl and 0.087 M KCl, pH 2",-0.0385,,,,FALSE,FALSE,20,0,https://doi.org/10.1016/s0006-3495(03)74596-2,
+PE,PE,S,S,18,1,18,1,,TD,10 mM HEPES,-0.0331,0.0009,-1.70E-04,,FALSE,FALSE,20,0,https://doi.org/10.1039/C5SM00577A,
+PE,PE,S,S,18,1,18,1,,TD,"10 mM CaCl2, 10 mM HEPES",-0.0340,0.0009,-1.80E-04,,FALSE,FALSE,20,0,https://doi.org/10.1039/C5SM00577A,
+PE,PE,S,S,18,1,18,1,,TD,"30 mM CaCl2, 10 mM HEPES",-0.0342,0.0008,-1.80E-04,,FALSE,FALSE,20,0,https://doi.org/10.1039/C5SM00577A,
+PE,PE,S,S,18,1,18,1,,TD,"50 mM CaCl2, 10 mM HEPES",-0.0343,0.0009,-1.60E-04,,FALSE,FALSE,20,0,https://doi.org/10.1039/C5SM00577A,
+PE,PE,S,S,18,1,18,1,,TD,"70 mM CaCl2, 10 mM HEPES",-0.0343,0.0009,-1.50E-04,,FALSE,FALSE,20,0,https://doi.org/10.1039/C5SM00577A,
+PE,PE,S,S,18,1,18,1,,TD,"100 mM CaCl2, 10 mM HEPES",-0.0347,0.0009,-9.00E-05,,FALSE,FALSE,20,0,https://doi.org/10.1039/C5SM00577A,
+PE,PE,S,S,18,1,18,1,,,H2O,-0.0420,0.0048,,,FALSE,FALSE,25,0,https://doi.org/10.1039/DC9868100029,
+PE,PE,S,S,18,1,18,1,,TD,H2O,-0.0444,0.002,,,FALSE,FALSE,25,0,https://doi.org/10.1039/DC9868100029,
+PE,PE,S,S,18,1,18,1,,,H2O,-0.0351,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(97)78067-6,
+PE,PE,S,S,18,1,18,1,,TD,H2O,-0.0340,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(97)78067-6,
+PE,PE,S,S,18,1,18,1,,TD,H2O,-0.0370,0.0013,,,FALSE,FALSE,22,0,https://doi.org/10.1021/bi0478502,
+PE,PE,S,S,18,1,18,1,,TD,"25 mM TES, 25 mM MES, 150 mM NaCl",-0.0435,0.0018,,,FALSE,FALSE,22,0,https://doi.org/10.1021/bi0478502,
+PE,PE,S,S,18,1,18,1,,TD,"25 mM TES, 25 mM MES, 150 mM NaCl, 25 mM CaCl2",-0.0455,0.022,,,FALSE,FALSE,22,0,https://doi.org/10.1021/bi0478502,
+PE,PE,S,S,18,1,18,1,,TD,2 mM TES,-0.0324,,,,FALSE,FALSE,22,0,https://doi.org/10.1021/bi00453a010,
+PE,PE,S,S,18,1,18,1,,,H2O,-0.0372,0.0026,,,FALSE,FALSE,30,0,https://doi.org/10.1039/c2fd20095c,
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0399,0.0005,-1.30E-04,4.00E-05,TRUE,FALSE,35,0,https://doi.org/10.1039/c3sm51829a,
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0409,0.001,,,TRUE,FALSE,35,0,https://doi.org/10.1107/S1600576719002760,
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0410,0.001,-1.60E-04,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PE,PE,S,S,18,1,18,1,,,H2O,-0.0451,,,,FALSE,TRUE,90,0,https://doi.org/10.1016/0005-2736(95)00296-0,
+PE,PE,S,S,18,0,22,5,,,H2O,-0.0385,0.0027,,,FALSE,FALSE,30,0,https://doi.org/10.1039/c2fd20095c,
+PE,PE,S,S,18,0,22,6,,,H2O,-0.0364,0.0025,,,FALSE,FALSE,30,0,https://doi.org/10.1039/c2fd20095c,
+PC,PC,S,S,10,0,10,0,,TD,2 mM TES,0.0200,0.01,,,FALSE,TRUE,22,0,https://doi.org/10.1529/biophysj.107.107938,extrapolated from https://doi.org/10.1021/bi00453a010
+PC,PC,S,S,12,0,12,0,DOPE,TS,H2O,0.0110,0.005,,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PC,PC,S,S,14,0,14,0,,TD,2 mM TES,0.0200,0.01,,,FALSE,TRUE,48,0,https://doi.org/10.1529/biophysj.107.107938,
+PC,PC,S,S,14,0,14,0,DOPE,TS,H2O,0.0110,0.005,,,TRUE,FALSE,61,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PC,PC,S,S,16,0,16,0,DOPE,TS,H2O,0.0068,0.0032,-3.50E-04,2.30E-04,TRUE,FALSE,35,0,https://doi.org/10.1039/c3sm51829a,
+PC,PC,S,S,16,0,16,0,DOPE,TS,H2O,0.0050,0.005,-5.60E-05,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PC,PC,S,S,18,0,18,0,DOPE,TS,H2O,0.0080,0.003,,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PC,PC,S,S,16,0,18,1,DOPE,TS,H2O,-0.0022,0.001,-1.80E-04,7.00E-05,TRUE,FALSE,35,0,https://doi.org/10.1039/c3sm51829a,
+PC,PC,S,S,16,0,18,1,DOPE,TS,H2O,0.0010,0.004,-1.10E-04,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PC,PC,S,S,18,0,18,1,DOPE,TS,H2O,-0.0010,0.0018,-2.20E-04,1.30E-04,TRUE,FALSE,35,0,https://doi.org/10.1039/c3sm51829a,
+PC,PC,S,S,18,1,18,1,DOPE,TS,H2O,-0.0091,0.0008,-1.10E-04,6.00E-05,TRUE,FALSE,35,0,https://doi.org/10.1039/c3sm51829a,
+PC,PC,S,S,18,1,18,1,DOPE,TS,H2O,-0.0040,0.004,-5.80E-05,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bbamem.2021.183709,
+PS,PS,S,S,18,1,18,1,DOPE,TD,"H2O, pH 7.2",0.0069,,,,FALSE,FALSE,20,0,https://doi.org/10.1016/s0006-3495(03)74596-2,
+PS,PS,S,S,18,1,18,1,DOPE,TD,"13 mM HCl, 87 mM KCl, pH 2",-0.0435,,,,FALSE,FALSE,20,0,https://doi.org/10.1016/s0006-3495(03)74596-2,
+PS,PS,S,S,18,1,18,1,DOPE,,H2O,-0.0410,0.003,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,H2O,-0.0260,0.002,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,"150 mM Bis-tris, 10 mM MgCl2, 3 mM CaCl2, pH 7.0",-0.0410,0.003,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,"150 mM Bis-tris, 10 mM MgCl2, 3 mM CaCl2, pH 7.0",-0.0140,0.001,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,"150 mM Bis-tris, 50 mM MgCl2, 15 mM CaCl2, pH 7.0",-0.0490,0.004,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,"150 mM Bis-tris, 50 mM MgCl2, 15 mM CaCl2, pH 7.0",-0.0410,0.003,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,"150 mM Bis-tris, 100 mM MgCl2, 30 mM CaCl2, pH 7.0",-0.0430,0.003,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PS,PS,S,S,18,1,18,1,DOPE,,"150 mM Bis-tris, 100 mM MgCl2, 30 mM CaCl2, pH 7.0",-0.0420,0.003,,,FALSE,TRUE,37,0,https://doi.org/10.1021/acs.langmuir.6b03098,"Yes, these each have two readings with errors in the same paper. Hysteresis?"
+PG,PG,S,S,18,0,18,1,DOPE,,"20 mM Na3PO4, 130 mM NaCl, pH 7.4",0.0020,0.003,,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bpj.2018.03.006,
+PG,PG,S,S,18,1,18,1,DOPE,,"20 mM Na3PO4, 130 mM NaCl, pH 7.4",0.0030,0.006,,,TRUE,FALSE,35,0,https://doi.org/10.1039/c9sm02352f,
+PG,PG,S,S,18,1,18,1,DOPE,TS,"50 mM Tris, 150 mM NaCl, 20 mM MgCl2, pH 7.4",-0.0124,0.0037,,,FALSE,FALSE,40,0,https://doi.org/10.1016/j.chemphyslip.2008.03.007,
+PG,PG,S,S,18,1,18,1,DOPE,TS,"50 mM Tris, 150 mM NaCl, pH 7.4",-0.0007,0.0021,,,FALSE,FALSE,40,0,https://doi.org/10.1016/j.chemphyslip.2008.03.007,
+LPE,LPE,S,,12,0,,,DOPE,TD,H2O,0.0025,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(01)75695-0,This is a lower limit.
+LPE,LPE,S,,16,0,,,DOPE,,"20 mM Na3PO4, 130 mM NaCl, pH 7.4",0.0180,0.0123,,,TRUE,FALSE,35,0,https://doi.org/10.1016/j.bpj.2018.03.006,
+LPE,LPE,S,,18,0,,,DOPE,TD,H2O,0.0025,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(01)75695-0,This is a lower limit.
+LPE,LPE,S,,18,1,,,DOPE,TD,H2O,0.0025,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(01)75695-0,This is a lower limit.
+LPC,LPC,S,,12,0,,,DOPE,TD,H2O,0.0172,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(01)75695-0,
+LPC,LPC,S,,16,0,,,DOPE,TD,H2O,0.0147,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(01)75695-0,
+LPC,LPC,S,,18,1,,,DOPE,TD,H2O,0.0263,,,,FALSE,FALSE,22,0,https://doi.org/10.1016/S0006-3495(01)75695-0,
+PI,PI,S,S,18,1,18,1,DOPE,TS,H2O,-0.0160,0.0008,,,TRUE,FALSE,35,0,DM yeast homeocurvature MS,Hosted 10% in DOPE. Neutral plane correction of 3.94 Å is used.
+PI,PI,S,S,18,1,18,1,DOPE,TS,H2O,-0.0171,0.0014,-1.45E-04,6.28E-05,TRUE,FALSE,20,0,DM0013 temp sweep,
+PC,O-PC,O,S,16,0,18,1,DOPE,TS,H2O,-0.0078,0.0003,-1.80E-04,7.00E-05,TRUE,FALSE,35,0,D4M005,
+PC,PC,S,S,16,0,18,1,DOPE,TS,H2O,-0.0029,0.0002,-1.80E-04,7.00E-05,TRUE,FALSE,35,0,D4M006,
+PC,P-PC,P,S,18,0,18,1,DOPE,TS,H2O,-0.0157,0.0002,-1.80E-04,7.00E-05,TRUE,FALSE,35,0,JWM0042,
+PE,O-PE,O,S,16,0,18,1,DOPE,TS,H2O,-0.0315,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,0,JWM0059,
+PE,OO-PE,O,O,16,0,18,1,DOPE,TS,H2O,-0.0368,0.0004,-2.70E-04,7.00E-05,TRUE,FALSE,35,0,JWM0060,
+PE,PE,S,S,16,0,18,1,DOPE,TS,H2O,-0.0298,0.0006,-2.70E-04,7.00E-05,TRUE,FALSE,35,0,"JWM0026, 47",
+PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0338,0.0007,-2.70E-04,7.00E-05,TRUE,FALSE,35,0,JWL0321,updated 6/24/25
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0335,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,232.5,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0330,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,399,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0326,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,565.5,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0326,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,732,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0321,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,898.5,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0316,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,1065,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0308,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,1231.5,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0295,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,1398,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0289,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,1564.5,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0281,0.0004,-2.70E-04,7.00E-05,TRUE,FALSE,35,1731,,Pressure is corrected for miscalibration of HUB 880.
+P-PE,P-PE,P,S,18,0,18,1,DOPE,TS,H2O,-0.0252,0.0004,-2.70E-04,7.00E-05,TRUE,FALSE,35,2563.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0302,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,0,JWL0320,updated 6/24/25
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0296,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,232.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0287,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,399,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0283,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,565.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0278,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,732,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0271,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,898.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0267,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,1065,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0258,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,1231.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0250,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,1398,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0246,0.0006,-2.70E-04,7.00E-05,TRUE,FALSE,35,1564.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0243,0.0003,-2.70E-04,7.00E-05,TRUE,FALSE,35,1731,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,0,18,1,DOPE,TS,H2O,-0.0226,0.0002,-2.70E-04,7.00E-05,TRUE,FALSE,35,2563.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0385,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,0,https://doi.org/10.1126/science.adm7607,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0380,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,232.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0377,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,399,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0372,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,565.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0367,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,732,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0363,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,898.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0359,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,1065,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0355,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,1231.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0352,0.0001,-2.70E-04,7.00E-05,TRUE,FALSE,35,1398,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0347,0.0001,-2.70E-04,7.00E-05,TRUE,FALSE,35,1564.5,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0343,0.0001,-2.70E-04,7.00E-05,TRUE,FALSE,35,1731,,Pressure is corrected for miscalibration of HUB 880.
+PE,PE,S,S,18,1,18,1,,TS,H2O,-0.0325,0.0000,-2.70E-04,7.00E-05,TRUE,FALSE,35,2563.5,,Pressure is corrected for miscalibration of HUB 880.
+PC,OO-PC,O,O,16,0,18,1,,TS,H2O,-0.0076,,-1.80E-04,,TRUE,TRUE,35,0,Fill-in estimate for reanalysis of Ding et al. 2024,PE - OOPE difference applied to POPC. T slope from PC.
+CL,CL,S,S,18,1,18,1,DOPE,TD,10 mM HEPES,2.27E-04,0.0066,2.10E-05,,FALSE,FALSE,20,0,https://doi.org/10.1039/c5sm00577a,

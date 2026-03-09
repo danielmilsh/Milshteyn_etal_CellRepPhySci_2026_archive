@@ -1,0 +1,10 @@
+eid,sp,pres_gro,time_gro,rep,remarks
+K562 1b 6hrs 1,Homo_sapi,1,6,1,
+K562 1b 6hrs 2,Homo_sapi,1,6,2,
+K562 1b 6hrs 3,Homo_sapi,1,6,3,
+K562 250b 6hrs 1,Homo_sapi,250,6,1,
+K562 250b 6hrs 2,Homo_sapi,250,6,2,
+K562 250b 6hrs 3,Homo_sapi,250,6,3,
+K562 250b 18hrs 1,Homo_sapi,250,18,1,
+K562 250b 18hrs 2,Homo_sapi,250,18,2,
+K562 250b 18hrs 3,Homo_sapi,250,18,3,

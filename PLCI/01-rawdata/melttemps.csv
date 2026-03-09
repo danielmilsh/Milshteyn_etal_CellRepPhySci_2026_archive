@@ -1,0 +1,103 @@
+class_lmaps,class,linksn1,linksn2,carbsn1,dbonsn1,carbsn2,dbonsn2,omegsn2,buff,Tm,tol,ref,remarks
+PC,PC,S,S,12,0,12,0,,,-2.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,13,0,13,0,,,14.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,14,0,14,0,,,24.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,15,0,15,0,,,35.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,16,0,16,0,,,41.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,17,0,17,0,,,50.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,0,18,0,,,55.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,19,0,19,0,,,62.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,20,0,20,0,,,66.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,21,0,21,0,,,71.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,22,0,22,0,,,75.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,23,0,23,0,,,79.5,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,24,0,24,0,,,80.3,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,16,1,16,1,9,,-36.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,1,18,1,9,,-17.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,22,1,22,1,9,,13.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,2,18,2,6,,-57.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,3,18,3,3,,-60.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,20,4,20,4,6,,-69.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,14,0,16,0,,,35.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,14,0,18,0,,,40.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,16,0,14,0,,,27.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,16,0,18,0,,,49.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,16,0,18,1,9,,-2.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,16,0,22,6,3,,-27.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,0,14,0,,,30.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,0,16,0,,,44.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,0,18,1,9,,6.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,1,16,0,,,-9.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PC,PC,S,S,18,1,18,0,,,9.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PG,PG,S,S,12,0,12,0,,,-3.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PG,PG,S,S,14,0,14,0,,,23.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PG,PG,S,S,16,0,16,0,,,41.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PG,PG,S,S,18,0,18,0,,,55.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PG,PG,S,S,18,1,18,1,9,,-18.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PG,PG,S,S,16,0,18,1,9,,-2.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PS,PS,S,S,14,0,14,0,,,35.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PS,PS,S,S,16,0,16,0,,,54.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PS,PS,S,S,18,0,18,0,,,68.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PS,PS,S,S,18,1,18,1,9,,-11.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PS,PS,S,S,16,0,18,1,9,,14.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PA,PA,S,S,12,0,12,0,,,31.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PA,PA,S,S,14,0,14,0,,,52.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PA,PA,S,S,16,0,16,0,,,65.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PA,PA,S,S,18,0,18,0,,,75.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PA,PA,S,S,20,1,20,1,9,,-4.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PA,PA,S,S,16,0,18,1,9,,28.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+CL,CL,S,S,14,0,14,0,,,47.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+CL,CL,S,S,16,0,16,0,,,62.2,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,12,0,12,0,,,29.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,14,0,14,0,,,50.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,16,0,16,0,,,63.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,18,0,18,0,,,74.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,20,0,20,0,,,83.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,18,1,18,1,9,,-16.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,18,2,18,2,6,,-40.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,16,0,18,1,9,,25.0,,https://avantiresearch.com/tech-support/physical-properties/phase-transition-temps,
+PE,PE,S,S,16,0,18,1,9,,25.7,,Own DSC expt,
+PE,O-PE,O,S,16,0,18,1,9,,26.9,,Own DSC expt,
+PE,OO-PE,O,O,16,0,18,1,9,,27.7,,Own DSC expt,
+PE,PE,S,S,18,0,18,1,9,,30.9,,Own DSC expt,
+PE,P-PE,P,S,18,0,18,1,9,,27.7,,Own DSC expt,
+PC,PC,S,S,16,0,18,0,,,48.8,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,15,0,19,0,,,44.8,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,14,0,20,0,,,40.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,19,0,15,0,,,39.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,13,0,21,0,,,34.1,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,21,0,13,0,,,34.1,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,20,0,14,0,,,33.2,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,11,0,17,0,,,12.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,12,0,18,0,,,21.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,13,0,19,0,,,30.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,15,0,21,0,,,44.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,16,0,22,0,,,50.5,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,17,0,23,0,,,56.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,18,0,24,0,,,61.0,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,20,0,26,0,,,68.5,,doi.org/10.1021/bi00243a021,
+PC,PC,S,S,18,0,18,1,9,,-4.5,0.2,doi.org/10.1016/s0006-3495(94)80725-8,"18:1n9, heating scan"
+PC,PC,S,S,18,0,18,2,6,,-21.4,0.6,doi.org/10.1016/s0006-3495(94)80725-8,"18:2n6, heating scan"
+PC,PC,S,S,18,0,18,3,6,,-14.0,1.2,doi.org/10.1016/s0006-3495(94)80725-8,"18:3n6, heating scan"
+PC,PC,S,S,18,0,18,3,3,,-18.8,0.2,doi.org/10.1016/s0006-3495(94)80725-8,"18:3n3, heating scan"
+PC,PC,S,S,18,0,20,2,6,,-12.0,0.4,doi.org/10.1016/s0006-3495(94)80725-8,"20:2n6, heating scan"
+PC,PC,S,S,18,0,20,3,6,,-14.0,1.1,doi.org/10.1016/s0006-3495(94)80725-8,"20:3n6, heating scan"
+PC,PC,S,S,18,0,20,4,6,,-18.6,2.6,doi.org/10.1016/s0006-3495(94)80725-8,"20:4n6, heating scan"
+PC,PC,S,S,18,0,20,5,3,,-13.1,0.1,doi.org/10.1016/s0006-3495(94)80725-8,"20:5n3, heating scan"
+PC,PC,S,S,18,0,22,4,6,,-13.8,0.8,doi.org/10.1016/s0006-3495(94)80725-8,"22:4n6, heating scan"
+PC,PC,S,S,18,0,22,5,3,,-16.6,0.4,doi.org/10.1016/s0006-3495(94)80725-8,"22:5n3, heating scan"
+PC,PC,S,S,18,0,22,5,6,,-12.3,0.6,doi.org/10.1016/s0006-3495(94)80725-8,"22:5n6, heating scan"
+PC,PC,S,S,18,0,22,6,3,,-8.7,0.3,doi.org/10.1016/s0006-3495(94)80725-8,"22:6n3, heating scan"
+PC,PC,S,S,18,0,18,1,9,,3.1,0.2,doi.org/10.1016/s0006-3495(94)80725-8,"18:1n9, cooling scan"
+PC,PC,S,S,18,0,18,2,6,,-11.1,0.5,doi.org/10.1016/s0006-3495(94)80725-8,"18:2n6, cooling scan"
+PC,PC,S,S,18,0,18,3,6,,-9.5,0.1,doi.org/10.1016/s0006-3495(94)80725-8,"18:3n6, cooling scan"
+PC,PC,S,S,18,0,18,3,3,,-8.5,0.3,doi.org/10.1016/s0006-3495(94)80725-8,"18:3n3, cooling scan"
+PC,PC,S,S,18,0,20,2,6,,-4.4,0.6,doi.org/10.1016/s0006-3495(94)80725-8,"20:2n6, cooling scan"
+PC,PC,S,S,18,0,20,3,6,,-7.8,0.3,doi.org/10.1016/s0006-3495(94)80725-8,"20:3n6, cooling scan"
+PC,PC,S,S,18,0,20,4,6,,-10.3,1,doi.org/10.1016/s0006-3495(94)80725-8,"20:4n6, cooling scan"
+PC,PC,S,S,18,0,20,5,3,,-10.5,0.1,doi.org/10.1016/s0006-3495(94)80725-8,"20:5n3, cooling scan"
+PC,PC,S,S,18,0,22,4,6,,-8.1,0.1,doi.org/10.1016/s0006-3495(94)80725-8,"22:4n6, cooling scan"
+PC,PC,S,S,18,0,22,5,3,,-8.6,0.2,doi.org/10.1016/s0006-3495(94)80725-8,"22:5n3, cooling scan"
+PC,PC,S,S,18,0,22,5,6,,-6.2,0.2,doi.org/10.1016/s0006-3495(94)80725-8,"22:5n6, cooling scan"
+PC,PC,S,S,18,0,22,6,3,,-5.7,0.2,doi.org/10.1016/s0006-3495(94)80725-8,"22:6n3, cooling scan"
+PI,PI,S,S,16,0,16,0,,"pH 7.4, 100 mM NaCl, 10 mM HEPES, 0.1 mM EDTA",40.9,,doi.org/10.1016/S0006-3495(04)74348-9,
